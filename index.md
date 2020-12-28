@@ -28,7 +28,7 @@ page_sections:
   content: 'Esse é um direito que você tem! '
   cta:
     enabled: true
-    url: "/#projetos"
+    url: "/#swap"
     button_text: Conheça o método Ikigai
   image:
     image: "/uploads/2020/12/28/woman-smiling-up-into-the-sky-640x427.jpg"
