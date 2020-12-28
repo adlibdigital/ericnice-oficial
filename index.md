@@ -23,13 +23,13 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: Nossa Missão<br><strong>Imagine acordar todos os dias se sentindo inspirado,
+    seguro e realizado com o trabalho que você realiza. </strong>
+  content: 'Esse é um direito que você tem! '
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: "/#projetos"
+    button_text: Conheça o método Ikigai
   image:
     image: "/uploads/2020/12/28/woman-smiling-up-into-the-sky-640x427.jpg"
     alt_text: Product Shot
