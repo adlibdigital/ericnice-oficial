@@ -31,7 +31,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2020/12/28/woman-smiling-up-into-the-sky-640x427.png"
+    image: "/uploads/2020/12/28/woman-smiling-up-into-the-sky-640x427.jpg"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
