@@ -23,9 +23,9 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: Nossa Missão<br><strong>Imagine acordar todos os dias se sentindo inspirado,
-    seguro e realizado com o trabalho que você realiza. </strong>
-  content: 'Esse é um direito que você tem! '
+  headline: "<strong>Imagine acordar todos os dias se sentindo inspirado, seguro e
+    realizado com o trabalho que você realiza. </strong>"
+  content: ''
   cta:
     enabled: true
     url: "/#swap"
