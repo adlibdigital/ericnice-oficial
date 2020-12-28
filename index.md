@@ -31,7 +31,7 @@ page_sections:
     url: "/#ikigai"
     button_text: Conheça o método Ikigai
   image:
-    image: "/uploads/2020/12/28/woman-smiling-up-into-the-sky-1280x854.jpg"
+    image: "/uploads/2020/12/28/copia-de-woman-smiling-up-into-the-sky-5184x3456.jp2"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
